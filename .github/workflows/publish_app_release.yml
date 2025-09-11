@@ -1,4 +1,4 @@
-name: app-build-release-action
+name: app-build-action-release
 # 手动触发
 on:
   workflow_dispatch:
